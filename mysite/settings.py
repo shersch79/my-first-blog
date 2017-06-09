@@ -122,4 +122,4 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', 'shersch79.pythonanywhere.com']
